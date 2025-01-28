@@ -96,4 +96,7 @@ body{
     margin-top: -6px;
     
 }
+.weather{
+    display: none;
+}
 
