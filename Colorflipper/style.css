@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+html{
+    background-color: rgb(233, 49, 49);
+    
+}
+
+.center{
+   display: flex;
+   align-items: center;
+   justify-items: center;
+   
+}
